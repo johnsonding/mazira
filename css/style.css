@@ -8335,7 +8335,7 @@ textarea.form-control {
 .img,
 .blog-img,
 .user-img {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
 
